@@ -7,8 +7,8 @@ The existing database will serve as a repository of public customer complaints f
 
 # Data Dictionary
 
-Ticket #: Ticket number assigned to each complaint
-Customer Complaint: Description of complaint
+- Ticket #: Ticket number assigned to each complaint
+- Customer Complaint: Description of complaint
 Date: Date of complaint
 Time: Time of complaint
 Received Via: Mode of communication of the complaint
